@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Snapshot Check UI of component Card 1`] = `
+<div
+  className="Card"
+>
+  <img
+    alt=""
+  />
+  <h2>
+    
+  </h2>
+  <p>
+    $null
+  </p>
+  <button>
+    Purchase
+  </button>
+</div>
+`;

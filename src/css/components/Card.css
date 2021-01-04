@@ -1,0 +1,36 @@
+.Card {
+  display: block;
+  padding: 10px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  width: auto;
+  background-color: var(--color-white-primary);
+  text-align: center;
+  color: var(--color-black-primary);
+}
+
+.Card img {
+  margin-bottom: 10px;
+}
+
+.Card h2 {
+  margin-bottom: 10px;
+}
+
+.Card p {
+  margin-bottom: 10px;
+}
+
+.Card em {
+  float: right;
+  font-style: italic;
+}
+
+.Card button {
+  padding: 10px;
+  background-color: var(--color-button-primary);
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  color: var(--color-white-primary);
+}
